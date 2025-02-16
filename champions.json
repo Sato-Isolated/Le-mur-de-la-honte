@@ -1,0 +1,842 @@
+{
+    "Aatrox": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Ahri": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Akali": {
+        "damage_dealt": "105%",
+        "damage_taken": "90%",
+        "other": "Energy regeneration increased by 20%. Tenacity increased by 20%"
+    },
+    "Akshan": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Going Rogue: Scoundrel duration reduced to 10 seconds."
+    },
+    "Alistar": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "Healing done reduced by 20%."
+    },
+    "Ambessa": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Amumu": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Anivia": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Annie": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "Shielding done reduced by 10%."
+    },
+    "Aphelios": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Ashe": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Total attack speed increased by 2.5%. \n W Cooldown : Cooldown increased to 18 / 17.5 / 17 / 16.5 / 16 seconds.  \n R Cooldown: Cooldown increased to 110 / 90 / 70 seconds."
+    },
+    "Aurelion Sol": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "E ability has increased cooldown"
+    },
+    "Azir": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": "Ability haste increased by 20. Total attack speed increased by 2.5%. \n Azir will start the game with one point already ranked in Arise!, allowing him to allocate the other two to his other abilities. \n Attack Speed Scaling: +0.025%, Ability Haste: +20%"
+    },
+    "Bard": {
+        "damage_dealt": "115%",
+        "damage_taken": "85%",
+        "other": "Healing done increased by 20%.\n Traveler's Call: Chime spawn rate changed to every 30 seconds instead of 50 seconds (initial spawn unchanged)."
+    },
+    "Bel'Veth": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Death in Lavender: \n She gains 2 stacks from nearby siege minion deaths. \n  Endless Banquet: \n Enhanced Void Corals spawn from nearby turrets being destroyed."
+    },
+    "Blitzcrank": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Brand": {
+        "damage_dealt": "95%",
+        "damage_taken": "110%",
+        "other": "Ability haste reduced by 10."
+    },
+    "Braum": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Briar": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Healing done increased by 20%."
+    },
+    "Caitlyn": {
+        "damage_dealt": "100%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Camille": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Shielding done increased by 10%.\n Healing done increased by 20%. Ability haste increased by 10."
+    },
+    "Cassiopeia": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "ChoGath": {
+        "damage_dealt": "100%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "Corki": {
+        "damage_dealt": "100%",
+        "damage_taken": "90%",
+        "other": "Ability hasted increased by 20. \n Hextech Munitions: \nFirst package spawn time reduced to 5:00. Package cooldown reduced to 150 seconds."
+    },
+    "Darius": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Diana": {
+        "damage_dealt": "102%",
+        "damage_taken": "98%",
+        "other": ""
+    },
+    "Dr. Mundo": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": "Healing done decresed by 10%"
+    },
+    "Draven": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Ekko": {
+        "damage_dealt": "110%",
+        "damage_taken": "100%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Elise": {
+        "damage_dealt": "105%",
+        "damage_taken": "90%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Evelynn": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Ezreal": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Fiddlesticks": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Fiora": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Fizz": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Galio": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Gangplank": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Parrrley: \nNew Effect: Passively gains 1 Silver Serpent Silver Serpent per second."
+    },
+    "Garen": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": "Courage: \nBonus resistances on-kill changed to 0.5. Number of enemy kills needed to reach the maximum amount changed to 60."
+    },
+    "Gnar": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Total attack speed increased by 2.5%."
+    },
+    "Gragas": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Graves": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Gwen": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Hecarim": {
+        "damage_dealt": "105%",
+        "damage_taken": "90%",
+        "other": "Healing done increased by 20%. \n  Ability haste increased by 10."
+    },
+    "Heimerdinger": {
+        "damage_dealt": "90%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "Hwei": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Illaoi": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "Healing done decreased by 20%."
+    },
+    "Irelia": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Ability hasted increased by 20."
+    },
+    "Ivern": {
+        "damage_dealt": "95%",
+        "damage_taken": "100%",
+        "other": "Shielding done reduced by 20%."
+    },
+    "Janna": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "Healing done reduced by 10%. \n Shielding done reduced by 5%."
+    },
+    "Jarvan IV": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Jax": {
+        "damage_dealt": "105%",
+        "damage_taken": "97%",
+        "other": ""
+    },
+    "Jayce": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Jhin": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Jinx": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "KSante": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "KaiSa": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": "Total attack speed increased by 2.5%"
+    },
+    "Kalista": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Total attack speed increased by 2.5%"
+    },
+    "Karma": {
+        "damage_dealt": "98%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Karthus": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": "Death Defied duration changed to 5 seconds."
+    },
+    "Kassadin": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Katarina": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Tenacity increased by 20%. \n Ability haste increased by 10."
+    },
+    "Kayle": {
+        "damage_dealt": "95%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "Kayn": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Healing done reduced by 20%. \n Tenacity increased by 20%. \n The Darkin Scythe transformation no longer restores full health and mana."
+    },
+    "Kennen": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Energy regeneration increased by 20%."
+    },
+    "KhaZix": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Healing done increased by 20%. \n Tenacity increased by 20%."
+    },
+    "Kindred": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Total attack speed increased by 2.5%."
+    },
+    "Kled": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "KogMaw": {
+        "damage_dealt": "88%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "LeBlanc": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Ability haste increased by 20. \n Tenacity increased by 20%."
+    },
+    "Lee Sin": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Shielding done increased by 20%. \nHealing done increased by 20%. \n Energy regeneration increased by 20%."
+    },
+    "Leona": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Lillia": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "E ability has increased cooldown"
+    },
+    "Lissandra": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Lucian": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Tenacity increased by 20%. \n Ability haste increased by 10."
+    },
+    "Lulu": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Lux": {
+        "damage_dealt": "85%",
+        "damage_taken": "110%",
+        "other": "Shielding done reduced by 20%."
+    },
+    "Malphite": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Malzahar": {
+        "damage_dealt": "90%",
+        "damage_taken": "110%",
+        "other": "Call of the Void deals 80% damage to minions (60% total). \n Void Swarm deals 80% damage to minions (60% total).\n Nether Grasp Null Zone deals 80% damage to minions (60% total)."
+    },
+    "Maokai": {
+        "damage_dealt": "80%",
+        "damage_taken": "110%",
+        "other": "Healing done reduced by 20%."
+    },
+    "Master Yi": {
+        "damage_dealt": "100%",
+        "damage_taken": "97%",
+        "other": ""
+    },
+    "Milio": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Shielding done reduced by 10%. \n Healing done reduced by 5%."
+    },
+    "Miss Fortune": {
+        "damage_dealt": "90%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "Mordekaiser": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Morgana": {
+        "damage_dealt": "95%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "Naafiri": {
+        "damage_dealt": "110%",
+        "damage_taken": "100%",
+        "other": "Ability haste increased by 10."
+    },
+    "Nami": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "Healing done reduced by 5%."
+    },
+    "Nasus": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": "Siphoning Strike: Per-kill stacks increased to 6. Per-large-kill stacks increased to 24."
+    },
+    "Nautilus": {
+        "damage_dealt": "95%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "Neeko": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Nidalee": {
+        "damage_dealt": "110%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Nilah": {
+        "damage_dealt": "97%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Nocturne": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Healing done increased by 20%."
+    },
+    "Nunu & Willump": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Shielding done increased by 20%. \n Healing done increased by 10%. \n Tenacity increased by 20%."
+    },
+    "Olaf": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Orianna": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Ornn": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": "Living Forge: \nNew Effect: Forging an item puts Living Forge on a 120-second cooldown."
+    },
+    "Pantheon": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Poppy": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Pyke": {
+        "damage_dealt": "110%",
+        "damage_taken": "95%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Qiyana": {
+        "damage_dealt": "115%",
+        "damage_taken": "90%",
+        "other": "Tenacity increased by 20%.\n Terrashape: \nHowling Abyss grants the River Element."
+    },
+    "Quinn": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Tenacity increased by 20%. \n Total attack speed increased by 2.5%."
+    },
+    "Rakan": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Rammus": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "RekSai": {
+        "damage_dealt": "105%",
+        "damage_taken": "90%",
+        "other": ""
+    },
+    "Rell": {
+        "damage_dealt": "95%",
+        "damage_taken": "100%",
+        "other": "Shielding done reduced by 10%. Healing done reduced by 10%."
+    },
+    "Renata Glasc": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "Shielding done reduced by 20%."
+    },
+    "Renekton": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Healing done increased by 20%."
+    },
+    "Rengar": {
+        "damage_dealt": "105%",
+        "damage_taken": "92%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Riven": {
+        "damage_dealt": "105%",
+        "damage_taken": "92%",
+        "other": ""
+    },
+    "Rumble": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Ryze": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Samira": {
+        "damage_dealt": "98%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Sejuani": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Senna": {
+        "damage_dealt": "97%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Seraphine": {
+        "damage_dealt": "90%",
+        "damage_taken": "120%",
+        "other": "Shielding done reduced by 20%. \n Healing done reduced by 20%. \n Ability haste reduced by 20."
+    },
+    "Sett": {
+        "damage_dealt": "90%",
+        "damage_taken": "110%",
+        "other": "Shielding done reduced by 10%. \nHealing done reduced by 10%. \n Ability haste reduced by 20."
+    },
+    "Shaco": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Jack in the Box limited to 6 Boxes active."
+    },
+    "Shen": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Shyvana": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": "Fury of the Dragonborn: \nAlternate Innate: Shyvana gains 1 bonus armor, 1 bonus magic resistance, and 0.05 bonus Fury regeneration whenever a siege or a canon minion dies within 1400 units range of her, or when she is healed by a health relic's area of effect on the enemy's side of the map.\nThe minions' death does not grant increase if she is dead (but in range)."
+    },
+    "Singed": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Sion": {
+        "damage_dealt": "90%",
+        "damage_taken": "110%",
+        "other": "Shielding done reduced by 20%. \n Tenacity reduced by 20%. \n Ability haste reduced by 20. \n Glory in Death life steal reduced to 50%."
+    },
+    "Sivir": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": "Q cooldown increased"
+    },
+    "Skarner": {
+        "damage_dealt": "100%",
+        "damage_taken": "105%",
+        "other": "Crystal Spires: \nNumber of Crystal Spires spawned on the battlefield changed to five:\n One in each brush (with the central one being neutral) \nOne in each team's base (below each inhibitor)"
+    },
+    "Smolder": {
+        "damage_dealt": "100%",
+        "damage_taken": "105%",
+        "other": "Ability haste reduced by 10."
+    },
+    "Sona": {
+        "damage_dealt": "100%",
+        "damage_taken": "110%",
+        "other": "Shielding done reduced by 15%.\n Healing done reduced by 15%. \n Ability haste reduced by 20."
+    },
+    "Soraka": {
+        "damage_dealt": "100%",
+        "damage_taken": "97%",
+        "other": ""
+    },
+    "Swain": {
+        "damage_dealt": "90%",
+        "damage_taken": "115%",
+        "other": "Healing done decreased by 20%."
+    },
+    "Sylas": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Syndra": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Ability haste increased by 15."
+    },
+    "Tahm Kench": {
+        "damage_dealt": "100%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Taliyah": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Talon": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Taric": {
+        "damage_dealt": "100%",
+        "damage_taken": "110%",
+        "other": ""
+    },
+    "Teemo": {
+        "damage_dealt": "90%",
+        "damage_taken": "110%",
+        "other": "Ability haste reduced by 20. \n Noxious Trap Deals 66% damage to minions (50% total)."
+    },
+    "Thresh": {
+        "damage_dealt": "100%",
+        "damage_taken": "105%",
+        "other": "Damnation: \n Each collected soul counts as 2 from 1."
+    },
+    "Tristana": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Trundle": {
+        "damage_dealt": "100%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Tryndamere": {
+        "damage_dealt": "110%",
+        "damage_taken": "90%",
+        "other": "Healing done increased by 35%."
+    },
+    "Twisted Fate": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Twitch": {
+        "damage_dealt": "100%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Udyr": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Tenacity increased by 20%."
+    },
+    "Urgot": {
+        "damage_dealt": "100%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Varus": {
+        "damage_dealt": "98%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Vayne": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Veigar": {
+        "damage_dealt": "90%",
+        "damage_taken": "110%",
+        "other": "Event Horizon cooldown changed to 23 / 21.5 / 20 / 18.5 / 17 seconds."
+    },
+    "VelKoz": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Vex": {
+        "damage_dealt": "95%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Vi": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Viego": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Viktor": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Vladimir": {
+        "damage_dealt": "95%",
+        "damage_taken": "105%",
+        "other": "Healing done reduced by 10%."
+    },
+    "Volibear": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Warwick": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Healing done increased by 5%."
+    },
+    "Wukong": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Xayah": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Total Attack Speed: +3%"
+    },
+    "Xerath": {
+        "damage_dealt": "93%",
+        "damage_taken": "105%",
+        "other": ""
+    },
+    "Xin Zhao": {
+        "damage_dealt": "95%",
+        "damage_taken": "100%",
+        "other": ""
+    },
+    "Yasuo": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Total Attack Speed: +2.5%"
+    },
+    "Yone": {
+        "damage_dealt": "105%",
+        "damage_taken": "97%",
+        "other": "Total Attack Speed: +2.5%"
+    },
+    "Yorick": {
+        "damage_dealt": "100%",
+        "damage_taken": "100%",
+        "other": "Shepherd of Souls: \nDeaths required for a grave changed to 5 at all levels."
+    },
+    "Yuumi": {
+        "damage_dealt": "105%",
+        "damage_taken": "100%",
+        "other": "Healing done increased by 10%."
+    },
+    "Zac": {
+        "damage_dealt": "100%",
+        "damage_taken": "96%",
+        "other": "Healing done increased by 10%."
+    },
+    "Zed": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Energy regeneration increased by 20%. \n Tenacity increased by 20%."
+    },
+    "Zeri": {
+        "damage_dealt": "110%",
+        "damage_taken": "100%",
+        "other": "Burst Fire \n Zeri will start the game with one point already ranked in Burst Fire!, allowing her to allocate the other two to her other abilities."
+    },
+    "Ziggs": {
+        "damage_dealt": "87%",
+        "damage_taken": "120%",
+        "other": "Ability haste reduced by 20. \n Short Fuse Damage to Structures reduced to 150%. \n Satchel Charge Tower execute threshold reduced."
+    },
+    "Zilean": {
+        "damage_dealt": "105%",
+        "damage_taken": "95%",
+        "other": "Ability haste increased by 10."
+    },
+    "Zoe": {
+        "damage_dealt": "110%",
+        "damage_taken": "95%",
+        "other": ""
+    },
+    "Zyra": {
+        "damage_dealt": "90%",
+        "damage_taken": "105%",
+        "other": "Ability haste reduced by 10."
+    }
+}
